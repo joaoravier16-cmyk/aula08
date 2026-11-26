@@ -4,7 +4,7 @@ let chamada = ["Ana" , "Bruno" , "Carla" , "Diego" , "Elena" ]
 function fnExibirChamada(lista){
    if(lista == chamada ){
     console.log(chamada.length)
-    console.log(chamada[0,4])
+    console.log(chamada [0] + " " + chamada [4])
    }}
 
 //2
